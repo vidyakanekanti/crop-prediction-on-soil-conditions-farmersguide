@@ -27,9 +27,3 @@ The project includes:
 
 ---
 
-## **🚀 Installation & Setup**  
-
-### **1️⃣ Clone the Repository**  
-```sh
-git clone https://github.com/vidyakanekanti/crop-prediction-on-soil-conditions-farmersguide.git
-cd crop-prediction-on-soil-conditions-farmersguide
